@@ -3,5 +3,15 @@ Git is free software.
 Git has a mutable index called stage.
 Creating a new branch is quick.
 Creating a new branch is quick.
+<<<<<<< HEAD
 modify in anotherLearner
 
+=======
+modify in dev1 twice
+modify in dev1 the third time
+modify in master
+add devdev branch
+after fix bug 101
+modify dev in gitlearn
+modify dev twice in gitlearn
+>>>>>>> b465fa099c7fea11190d2c599f4f19d6dec9e447
