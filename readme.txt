@@ -3,8 +3,5 @@ Git is free software.
 Git has a mutable index called stage.
 Creating a new branch is quick.
 Creating a new branch is quick.
-modify in dev&dev.
-modify in dev&dev.
-modify in dev&dev.
-modify in dev&dev.
-modify in dev&dev.
+modify in dev1
+
