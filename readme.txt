@@ -1,13 +1,2 @@
-git is a distributed version control System.
-Git is free software.
-Git has a mutable index called stage.
-Creating a new branch is quick.
-Creating a new branch is quick.
-modify in dev1 twice
-modify in dev1 the third time
-modify in master
-add devdev branch
-after fix bug 101
-modify origin master in 0329 10:04
-modify origin master in 0329 11:03
-
+The txt file I uploaded to Git is a diary to my love,Swei Zhang.
+It started on April,the second,in 2023
